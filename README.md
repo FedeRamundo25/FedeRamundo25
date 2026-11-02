@@ -18,10 +18,9 @@ Software Manager con amplia trayectoria en la industria tecnológica, especializ
 
 | Project | Description | Primary Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **AI Capacity Planning Tool** | Herramienta web asistida por IA para simulación interactiva de rotaciones de equipo, rebalanceo de capacidad trimestral y seguimiento de vacantes. | GenAI, JS/HTML, Jira Assets API | [Portfolio Page](https://federamundo25.github.io/me/) |
-| **GitHub Copilot Adoption & DORA** | Programa de adopción de IA Generativa en desarrollo de software y medición del impacto sobre métricas DORA (Cycle Time, MTTR). | GitHub Copilot, DORA Framework | [Portfolio Page](https://federamundo25.github.io/me/) |
-| **Frávega Pay & Cash-In Engine** | Infraestructura de pagos y soluciones Cash-In/Cash-Out (+130k clientes onboardeados y +$1.000M procesados). | Fintech, Payments Engine | [Portfolio Page](https://federamundo25.github.io/me/) |
-| **Marketplace Supply Scaling** | Optimización de herramientas de ABM, Pricing y Catálogo, reduciendo 80% tareas manuales y 75% el tiempo de onboarding de sellers. | E-commerce, Catalog & Pricing | [Portfolio Page](https://federamundo25.github.io/me/) |
+| **Trivia Fútbol** | Plataforma web interactiva full-stack con arquitectura desacoplada, gestión de usuarios, tablas de posiciones y panel de administración. | Node.js, Express, PostgreSQL, JS | [Docs](https://github.com/FedeRamundo25/TriviaFutbol) |
+
+
 
 ---
 

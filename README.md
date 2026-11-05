@@ -18,7 +18,7 @@ I'm particularly interested in how technology and Artificial Intelligence can tr
 
 | Project | Description | Primary Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Trivia Fútbol** | Full-stack interactive web platform featuring a decoupled architecture, user management, leaderboards, and an administration panel. | Node.js, Express, PostgreSQL, JavaScript | [Link](https://federamundo25.github.io/TriviaFutbol/docs/) |
+| **Trivia Fútbol** | Full-stack interactive web platform featuring a decoupled architecture, user management, leaderboards, and an administration panel. | Node.js, Express, PostgreSQL, JavaScript | [Link](https://federamundo25.github.io/TriviaFutbol/) |
 
 ---
 
